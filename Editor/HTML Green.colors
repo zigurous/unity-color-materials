@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: HTML Green
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: Chartreuse
+    m_Color: {r: 0.49803913, g: 1, b: 0, a: 1}
+  - m_Name: Dark Cyan
+    m_Color: {r: 0, g: 0.545098, b: 0.545098, a: 1}
+  - m_Name: Dark Green
+    m_Color: {r: 0, g: 0.39215684, b: 0, a: 1}
+  - m_Name: Dark Olive Green
+    m_Color: {r: 0.3333333, g: 0.41960782, b: 0.18431368, a: 1}
+  - m_Name: Dark Sea Green
+    m_Color: {r: 0.5607843, g: 0.737255, b: 0.545098, a: 1}
+  - m_Name: Forest Green
+    m_Color: {r: 0.1333333, g: 0.545098, b: 0.1333333, a: 1}
+  - m_Name: Green
+    m_Color: {r: 0, g: 0.5019608, b: 0, a: 1}
+  - m_Name: Green Yellow
+    m_Color: {r: 0.6784314, g: 1, b: 0.18431368, a: 1}
+  - m_Name: Lawn Green
+    m_Color: {r: 0.48627448, g: 0.9882353, b: 0, a: 1}
+  - m_Name: Light Green
+    m_Color: {r: 0.5647059, g: 0.93333334, b: 0.5647059, a: 1}
+  - m_Name: Light Sea Green
+    m_Color: {r: 0.12549016, g: 0.69803923, b: 0.6666667, a: 1}
+  - m_Name: Lime
+    m_Color: {r: 0, g: 1, b: 0, a: 1}
+  - m_Name: Lime Green
+    m_Color: {r: 0.19607839, g: 0.8039216, b: 0.19607839, a: 1}
+  - m_Name: Medium Aqua Marine
+    m_Color: {r: 0.39999998, g: 0.8039216, b: 0.6666667, a: 1}
+  - m_Name: Medium Sea Green
+    m_Color: {r: 0.23529407, g: 0.7019608, b: 0.44313723, a: 1}
+  - m_Name: Medium Spring Green
+    m_Color: {r: 0, g: 0.98039216, b: 0.6039216, a: 1}
+  - m_Name: Olive Drab
+    m_Color: {r: 0.41960782, g: 0.5568628, b: 0.13725486, a: 1}
+  - m_Name: Pale Green
+    m_Color: {r: 0.5960784, g: 0.98431367, b: 0.5960784, a: 1}
+  - m_Name: Sea Green
+    m_Color: {r: 0.18039212, g: 0.545098, b: 0.34117645, a: 1}
+  - m_Name: Spring Green
+    m_Color: {r: 0, g: 1, b: 0.49803913, a: 1}
+  - m_Name: Teal
+    m_Color: {r: 0, g: 0.5019608, b: 0.5019608, a: 1}
+  - m_Name: Yellow Green
+    m_Color: {r: 0.6039216, g: 0.8039216, b: 0.19607839, a: 1}
