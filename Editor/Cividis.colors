@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Cividis
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: Cividis-01
+    m_Color: {r: 1, g: 0.9176471, b: 0.27058816, a: 1}
+  - m_Name: Cividis-02
+    m_Color: {r: 0.9607844, g: 0.86666673, b: 0.30196077, a: 1}
+  - m_Name: Cividis-03
+    m_Color: {r: 0.8980393, g: 0.81568635, b: 0.35294116, a: 1}
+  - m_Name: Cividis-04
+    m_Color: {r: 0.8431373, g: 0.7686275, b: 0.3882353, a: 1}
+  - m_Name: Cividis-05
+    m_Color: {r: 0.7803922, g: 0.7176471, b: 0.41960785, a: 1}
+  - m_Name: Cividis-06
+    m_Color: {r: 0.7254902, g: 0.6745098, b: 0.4392157, a: 1}
+  - m_Name: Cividis-07
+    m_Color: {r: 0.67058825, g: 0.62745106, b: 0.454902, a: 1}
+  - m_Name: Cividis-08
+    m_Color: {r: 0.6156863, g: 0.5882353, b: 0.46666664, a: 1}
+  - m_Name: Cividis-09
+    m_Color: {r: 0.5647059, g: 0.545098, b: 0.47450978, a: 1}
+  - m_Name: Cividis-10
+    m_Color: {r: 0.5137254, g: 0.5019608, b: 0.47450978, a: 1}
+  - m_Name: Cividis-11
+    m_Color: {r: 0.46666664, g: 0.46666664, b: 0.46274507, a: 1}
+  - m_Name: Cividis-12
+    m_Color: {r: 0.41960785, g: 0.42352942, b: 0.44313726, a: 1}
+  - m_Name: Cividis-13
+    m_Color: {r: 0.372549, g: 0.3882353, b: 0.43137255, a: 1}
+  - m_Name: Cividis-14
+    m_Color: {r: 0.32549015, g: 0.3490196, b: 0.42352942, a: 1}
+  - m_Name: Cividis-15
+    m_Color: {r: 0.2705882, g: 0.3098039, b: 0.41960785, a: 1}
+  - m_Name: Cividis-16
+    m_Color: {r: 0.20784312, g: 0.2745098, b: 0.41960785, a: 1}
+  - m_Name: Cividis-17
+    m_Color: {r: 0.12156858, g: 0.2352941, b: 0.42745098, a: 1}
+  - m_Name: Cividis-18
+    m_Color: {r: 0, g: 0.19999999, b: 0.4352941, a: 1}
+  - m_Name: Cividis-19
+    m_Color: {r: 0, g: 0.16470584, b: 0.39215687, a: 1}
+  - m_Name: Cividis-20
+    m_Color: {r: 0, g: 0.1294117, b: 0.30196074, a: 1}
