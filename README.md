@@ -1,6 +1,6 @@
 # Color Materials
 
-The Color Materials package provides Unity materials representing nearly 300 common colors including the color wheel, grayscale colors, data visualization colors, all named HTML colors, and the Pantone colors of the year.
+The Color Materials package provides Unity materials representing nearly 300 common colors including the color wheel, grayscale colors, data visualization colors, all named HTML colors, and more.
 
 ## Installation
 
