@@ -4,11 +4,15 @@
   "displayName": "Color Materials",
   "description": "The Color Materials package provides Unity materials representing nearly 300 common colors including the color wheel, grayscale colors, data visualization colors, all named HTML colors, and more.",
   "unity": "2019.4",
-  "keywords": [
-    "colors",
-    "materials"
-  ],
   "repository": "https://github.com/zigurous/unity-color-materials",
+  "keywords": [
+    "color",
+    "colors",
+    "materials",
+    "data visualization",
+    "grayscale",
+    "pantone"
+  ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@zigurous"
   },
