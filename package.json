@@ -10,8 +10,7 @@
     "colors",
     "materials",
     "data visualization",
-    "grayscale",
-    "pantone"
+    "grayscale"
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@zigurous"
